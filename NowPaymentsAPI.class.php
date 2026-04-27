@@ -1,7 +1,7 @@
 <?php 
 
 class NowPaymentsAPI {
-	private $session, $token;
+	private $session, $token;n3WIgcFITf6a9+Bp2S2leV2nqRMZBzKb
 
 	const API_BASE = 'https://api.nowpayments.io/v1/';
 
